@@ -1,0 +1,2 @@
+Day 02, exercice 1, result  2169
+Day 02, exercice 2, result  60948
